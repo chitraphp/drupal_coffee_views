@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Test variables feature.
+ */
+
+include_once 'test_variables.features.inc';
